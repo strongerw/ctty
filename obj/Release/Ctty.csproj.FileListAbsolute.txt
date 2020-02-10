@@ -1,0 +1,7 @@
+D:\Project\VisualStudio\Ctty\bin\Release\Ctty.exe.config
+D:\Project\VisualStudio\Ctty\bin\Release\Ctty.exe
+D:\Project\VisualStudio\Ctty\bin\Release\Ctty.pdb
+D:\Project\VisualStudio\Ctty\obj\Release\Ctty.csprojAssemblyReference.cache
+D:\Project\VisualStudio\Ctty\obj\Release\Ctty.csproj.CoreCompileInputs.cache
+D:\Project\VisualStudio\Ctty\obj\Release\Ctty.exe
+D:\Project\VisualStudio\Ctty\obj\Release\Ctty.pdb
